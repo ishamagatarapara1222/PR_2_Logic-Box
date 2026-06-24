@@ -47,7 +47,7 @@ The project is built entirely using vanilla Python features, ensuring optimal li
 📷 5. Project Execution Output (Screenshots)
 Below is the complete step-by-step terminal execution flow showing the interactive features of the Logic Box script:
 
-![Complete Application Walkthrough](Screenshot%20(108).png)
+![Complete Application Walkthrough](Screenshot 2026-06-24 154910.png)
 🎓 6. Core Concepts Explored
 By building this program, the following essential structural development principles were covered:
 
