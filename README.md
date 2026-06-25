@@ -47,7 +47,7 @@ The project is built entirely using vanilla Python features, ensuring optimal li
 📷 5. Project Execution Output (Screenshots)
 Below is the complete step-by-step terminal execution flow showing the interactive features of the Logic Box script:
 
-![Complete Application Walkthrough](Screenshot 2026-06-24 154910.png)
+![Logic Box Menu, Pattern Creation, and Number Analysis](Screenshot%202026-06-24%20164559.png)
 
 
 🎓 6. Core Concepts Explored
